@@ -15,7 +15,6 @@
 
 ## 📸 Screenshots
 
-> Replace the image files under `docs/screenshots/` with your real screenshots.
 
 ### Main Screen – From JSON to Validation
 
