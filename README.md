@@ -26,13 +26,13 @@
 ### ObjectTypes Editor
 
 <p align="center">
-  <img src="docs/screenshots/object-types.png" alt="ObjectTypes editor" width="900" />
+  <img src="docs/object-types.png" alt="ObjectTypes editor" width="900" />
 </p>
 
 ### Load & Edit Existing Validation JSON
 
 <p align="center">
-  <img src="docs/screenshots/load-existing.png" alt="Load existing validation JSON" width="900" />
+  <img src="docs/load-existing.png" alt="Load existing validation JSON" width="900" />
 </p>
 
 ---
